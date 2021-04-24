@@ -32,7 +32,7 @@
 </div>
 
 <div>
-    <img src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" width=97%>
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif" width=980>
   </div>
 
 <hr>
