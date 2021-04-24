@@ -1,4 +1,4 @@
-# Siddharth Singh&nbsp;<img src="https://media1.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width=45px></p>
+# Siddharth Singh&nbsp;<img src="https://media1.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width=70</p>
 
 <p>
   <em>
